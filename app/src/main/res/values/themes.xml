@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Базовая тема приложения, наследующая от Material3 DayNight -->
-    <style name="Theme.CourierApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Здесь можно переопределить цвета, например:
-        <item name="colorPrimary">@color/purple_500</item>
-        -->
-    </style>
+    <style name="Theme.CourierApp" parent="Theme.Material3.DayNight.NoActionBar" />
 </resources>
